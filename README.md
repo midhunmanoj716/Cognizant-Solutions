@@ -1,16 +1,6 @@
 Cognizant Full Stack Java Solutions
 This repository contains a collection of Java-based solutions developed as part of the Cognizant Full Stack Engineer (FSE) Program. The projects are organized week-wise, each covering key topics like object-oriented design, software patterns, algorithm implementation, and real-world problem-solving using Java.
 
-📁 Folder Structure
-.
-├── week1/
-│ ├── SingletonPatternExample/
-│ ├── FactoryMethodPatternExample/
-│ ├── SearchFunction/
-│ └── FinancialForecasting/
-├── week2/
-│ └── ... (upcoming)
-└── README.md
 
 Each subfolder inside a week contains individual exercises, complete with .java files and their respective main() methods.
 
