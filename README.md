@@ -1,8 +1,14 @@
 Cognizant Full Stack Java Solutions
-This repository contains a collection of Java-based solutions developed as part of the Cognizant Full Stack Engineer (FSE) Program. The projects are organized week-wise, each covering key topics like object-oriented design, software patterns, algorithm implementation, and real-world problem-solving using Java.
+This repository contains a collection of Java-based solutions developed as part of the Cognizant Full Stack Engineer (FSE) Program. The exercises are structured week-wise and include hands-on assignments focused on core programming concepts, design patterns, algorithm implementation, and more.
 
+📁 Weekly Breakdown
+✅ Week 1
+All Week 1 assignments and hands-on exercises have been added.
 
-Each subfolder inside a week contains individual exercises, complete with .java files and their respective main() methods.
+✅ Week 2
+All Week 2 exercises and solutions have also been pushed.
+
+Additional weeks will be added progressively as the program continues.
 
 🔧 Prerequisites
 To run the code in this repository, the following tools should be installed:
@@ -14,34 +20,22 @@ Git for version control
 A Java-compatible IDE (such as Visual Studio Code, IntelliJ IDEA, or Eclipse)
 
 🚀 How to Run the Programs
-Clone the repository using
+Clone the repository:
 git clone https://github.com/midhunmanoj716/Cognizant-Solutions.git
 
 Open the folder in VS Code or your preferred IDE
 
-Navigate to any subfolder inside a week, such as week1/SingletonPatternExample/
+Navigate to any week's subfolder, then into the exercise folder
 
-Compile the Java files using
+Compile the Java files:
 javac FileName.java
 
-Run the program using
+Run the program:
 java FileName
-
-Replace FileName with the name of the file containing the main() method.
-
-📌 Topics Covered
-Singleton Design Pattern
-
-Factory Method Design Pattern
-
-Linear and Binary Search (with complexity analysis)
-
-Recursive Algorithms in Financial Forecasting
-
-More solutions will be added as training progresses through further weeks.
+(Replace FileName with the class containing the main() method)
 
 📄 License
-This repository is maintained for educational purposes and personal learning during the Cognizant FSE training program. Please avoid unauthorized reuse or direct duplication.
+This repository is maintained for educational and personal learning use during the Cognizant FSE program. Direct copying or unauthorized reuse is discouraged.
 
 ✍️ Author
 Midhun Manoj
