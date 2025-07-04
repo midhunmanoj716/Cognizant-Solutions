@@ -22,6 +22,7 @@ This project contains basic Spring Core exercises demonstrating dependency injec
 - Maven
 
 ## 📂 Folder Structure
+<pre>
 LibraryManagement/
 ├── src/
 │ └── main/
@@ -30,7 +31,7 @@ LibraryManagement/
 │ │ └── repository/BookRepository.java
 │ └── resources/applicationContext.xml
 ├── pom.xml
-
+</pre>
 
 
 ## 📌 How to Run
