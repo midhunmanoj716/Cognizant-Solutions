@@ -8,6 +8,8 @@ All Week 1 assignments and hands-on exercises have been added.
 ✅ Week 2
 All Week 2 exercises and solutions have also been pushed.
 
+✅ Week 3
+All Week 3 exercises and solutions have also been pushed.
 Additional weeks will be added progressively as the program continues.
 
 🔧 Prerequisites
