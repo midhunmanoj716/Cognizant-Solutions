@@ -18,6 +18,7 @@ This project demonstrates Spring Boot integration with Spring Data JPA and MySQL
 - Eclipse IDE
 
 ## 🗃️ Folder Structure
+<pre>
 orm-learn/
 ├── src/
 │ ├── main/
@@ -29,7 +30,7 @@ orm-learn/
 │ └── test/java/
 ├── pom.xml
 └── OrmLearnApplication.java
-
+</pre>
 
 ## 🧪 How to Run
 
