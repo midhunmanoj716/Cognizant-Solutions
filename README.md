@@ -1,7 +1,7 @@
 Cognizant Full Stack Java Solutions
 This repository contains a collection of Java-based solutions developed as part of the Cognizant Full Stack Engineer (FSE) Program. The exercises are structured week-wise and include hands-on assignments focused on core programming concepts, design patterns, algorithm implementation, and more.
 
-📁 Weekly Breakdown
+<pre>📁 Weekly Breakdown
 ✅ Week 1
 All Week 1 assignments and hands-on exercises have been added.
 
@@ -25,6 +25,8 @@ All Week 7 exercises and solutions have also been pushed.
 
 ✅ Week 8
 All Week 8 exercises and solutions have also been pushed.
+</pre>
+
 🔧 Prerequisites
 To run the code in this repository, the following tools should be installed:
 
@@ -51,7 +53,8 @@ java FileName
 
 📄 License
 This repository is maintained for educational and personal learning use during the Cognizant FSE program. Direct copying or unauthorized reuse is discouraged.
-
+<pre>
 ✍️ Author
 Midhun Manoj
 GitHub: https://github.com/midhunmanoj716
+</pre>
