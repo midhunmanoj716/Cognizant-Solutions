@@ -22,8 +22,9 @@ All Week 6 exercises and solutions have also been pushed.
 
 ✅ Week 7
 All Week 7 exercises and solutions have also been pushed.
-Additional weeks will be added progressively as the program continues.
 
+✅ Week 8
+All Week 8 exercises and solutions have also been pushed.
 🔧 Prerequisites
 To run the code in this repository, the following tools should be installed:
 
